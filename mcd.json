@@ -1,9 +1,11 @@
 {
-  "Contents": [
+  "ToDownload": [
     {
       "Url": "test",
       "NameToSet": "test"
-    },
+    }
+  ],
+  "ToDelete": [
     {
       "NameToDelete": "test"
     }
