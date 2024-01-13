@@ -1,0 +1,11 @@
+{
+  "Contents": [
+    {
+      "Url": "test",
+      "NameToSet": "test"
+    },
+    {
+      "NameToDelete": "test"
+    }
+  ]
+}
