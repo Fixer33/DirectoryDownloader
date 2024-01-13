@@ -2,11 +2,13 @@
   "ToDownload": [
     {
         "Url": "https://cdn.modrinth.com/data/uY7EYHum/versions/jZ0T34nW/destroy-1.20.1-0.3.jar",
-        "NameToSet": "destroy-1.20.1-0.3.jar"
+        "NameToSet": "destroy-1.20.1-0.3.jar",
+        "Sum": "09241ec4c9c9c842886342100e13987695a2e08adee55eb5f800bf53cc2ed7a8"
     },
     {
         "Url": "https://mediafilez.forgecdn.net/files/4767/571/jei-1.20.2-forge-16.0.0.28.jar",
-        "NameToSet": "jei-1.20.2-forge-16.0.0.28.jar"
+        "NameToSet": "jei-1.20.2-forge-16.0.0.28.jar",
+        "Sum": "387095e08eeed6553149436ccf6f2a7547f24f52c99fc4c0e243f2c7757c55f3"
     }
   ],
   "ToDelete": [
