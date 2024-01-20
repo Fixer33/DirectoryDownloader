@@ -1,24 +1,14 @@
 {
   "ToDownload": [
     {
-        "Url": "https://cdn.modrinth.com/data/Eyw0UxEx/versions/YVbSM3mb/theoneprobe-1.20.1-10.0.0.jar",
-        "NameToSet": "theoneprobe-1.20.1-10.0.0.jar",
-        "Sum": "092d781a80a42bc8f4cae8ec71e24e6fed6fcc4c35393b6be383adbf26de202c"
-    },
-    {
         "Url": "https://cdn.modrinth.com/data/rOUBggPv/versions/oLWJKPOz/supermartijn642corelib-1.1.16-forge-mc1.20.1.jar",
         "NameToSet": "supermartijn642corelib-1.1.16-forge-mc1.20.1.jar",
         "Sum": "8a61a541f0dbf849a14188a2e891494ae4853f44fb29c69be5b7d3cd669f9ac4"
     },
     {
-        "Url": "https://cdn.modrinth.com/data/Jrmoreqs/versions/ncuQrCcK/AdvancedBackups-forge-1.20-3.4.jar",
-        "NameToSet": "AdvancedBackups-forge-1.20-3.4.jar",
-        "Sum": "997357fb30d3c7cc6db5515918cb1f45f469582c5c0497c4cb4856135f33e0c8"
-    },
-    {
-        "Url": "https://cdn.modrinth.com/data/x5iQ3NM5/versions/PfmGbxy4/toms_trading_network-1.20-0.2.2.jar",
-        "NameToSet": "toms_trading_network-1.20-0.2.2.jar",
-        "Sum": "03c718de99f93a680563750aa0bf6646e7c98623cacbd7d36f2bbd845d5e1b1e"
+        "Url": "https://cdn.modrinth.com/data/t1VgucWo/versions/5RSR78ic/chunkloaders-1.2.8a-forge-mc1.20.1.jar",
+        "NameToSet": "chunkloaders-1.2.8a-forge-mc1.20.1.jar",
+        "Sum": "b418c8a4cd2832bed893937f264cf38e284aa771ef423388480ba1f546158a19"
     },
     {
         "Url": "https://cdn.modrinth.com/data/NfnO7EKv/versions/T9JYB8Ju/kuronomy-2.0.0.jar",
@@ -29,6 +19,11 @@
         "Url": "https://cdn.modrinth.com/data/LN9BxssP/versions/ZKor79dR/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
         "NameToSet": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
         "Sum": "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/Xg35A4rS/versions/N2sIh5Yx/CraftTweaker-forge-1.20.1-14.0.30.jar",
+        "NameToSet": "CraftTweaker-forge-1.20.1-14.0.30.jar",
+        "Sum": "bac094096c43392bec64928bb5ced9020f7f93bcd2af08735308366cd2cdcdd8"
     }
   ],
   "ToDelete": [
