@@ -29,11 +29,39 @@
         "Url": "https://cdn.modrinth.com/data/uY7EYHum/versions/o2RULRiG/destroy-1.20.1-0.5.jar",
         "NameToSet": "destroy-1.20.1-0.5.jar",
         "Sum": "5f210b8c329a8720287e7a694ac69de66905a3f16a9d69963d8f5d0b79406763"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/7PZQJ2nL/versions/uLqmcRW9/Simple%20Economy%201.4.0%20Beta%20Release%20Forge%201.20.1.jar",
+        "NameToSet": "Simple Economy 1.4.0 Beta Release Forge 1.20.1.jar",
+        "Sum": "6a986a48e01116bca6a825210be7146d50607b29fe7204594d25eba3d74c38be"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/8DfbfASn/versions/wiCQJUDT/DungeonsArise-1.20.1-2.1.57-release.jar",
+        "NameToSet": "DungeonsArise-1.20.1-2.1.57-release.jar",
+        "Sum": "26c12f489af79026bf41c7dbe67f8258c28871a0ab07ee8d6d43d0350e0b5983"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/pvcsfne4/versions/5tGfF2Ok/chefs-delight-1.0.3-forge-1.20.1.jar",
+        "NameToSet": "chefs-delight-1.0.3-forge-1.20.1.jar",
+        "Sum": "27be85d4cfa48a1b9e469e7f485dd4e7c87b782ade1d5ee6eec4a8c3f7d4b968"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/HSfsxuTo/versions/DFkIejTe/explorify-v1.3.0-mc1.20.jar",
+        "NameToSet": "explorify-v1.3.0-mc1.20.jar",
+        "Sum": "7ce41507689f1cb1468e989baaa65ca1cb9a063a0d9e38c08823a8b9c21972a5"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/8pcjMDgj/versions/skIfd1VU/TradingPost-v8.0.1-1.20.1-Forge.jar",
+        "NameToSet": "TradingPost-v8.0.1-1.20.1-Forge.jar",
+        "Sum": "007c190e64409c0947e1f71bc4d69499b510f7a8015b63e239338d0088d9815f"
     }
   ],
   "ToDelete": [
     {
         "NameToDelete": "Bountiful-6.0.3+1.20.1-forge.jar"
+    },
+    {
+        "NameToDelete": "freecam-forge-1.2.1+1.20.jar"
     }
   ]
 }
