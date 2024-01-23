@@ -1,28 +1,57 @@
 {
   "ToDownload": [
     {
-        "Url": "https://cdn.modrinth.com/data/uY7EYHum/versions/jZ0T34nW/destroy-1.20.1-0.3.jar",
-        "NameToSet": "destroy-1.20.1-0.3.jar",
-        "Sum": "09241ec4c9c9c842886342100e13987695a2e08adee55eb5f800bf53cc2ed7a8"
+        "Url": "https://cdn.modrinth.com/data/rOUBggPv/versions/oLWJKPOz/supermartijn642corelib-1.1.16-forge-mc1.20.1.jar",
+        "NameToSet": "supermartijn642corelib-1.1.16-forge-mc1.20.1.jar",
+        "Sum": "8a61a541f0dbf849a14188a2e891494ae4853f44fb29c69be5b7d3cd669f9ac4"
     },
     {
-        "Url": "https://mediafilez.forgecdn.net/files/4767/571/jei-1.20.2-forge-16.0.0.28.jar",
-        "NameToSet": "jei-1.20.2-forge-16.0.0.28.jar",
-        "Sum": "387095e08eeed6553149436ccf6f2a7547f24f52c99fc4c0e243f2c7757c55f3"
+        "Url": "https://cdn.modrinth.com/data/t1VgucWo/versions/5RSR78ic/chunkloaders-1.2.8a-forge-mc1.20.1.jar",
+        "NameToSet": "chunkloaders-1.2.8a-forge-mc1.20.1.jar",
+        "Sum": "b418c8a4cd2832bed893937f264cf38e284aa771ef423388480ba1f546158a19"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/NfnO7EKv/versions/T9JYB8Ju/kuronomy-2.0.0.jar",
+        "NameToSet": "kuronomy-2.0.0.jar",
+        "Sum": "02c056195d7a5219c34bf0b7d33268208edf4d55bdc1f07b8c22804ed43f50d7"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/LN9BxssP/versions/ZKor79dR/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+        "NameToSet": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+        "Sum": "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/Xg35A4rS/versions/N2sIh5Yx/CraftTweaker-forge-1.20.1-14.0.30.jar",
+        "NameToSet": "CraftTweaker-forge-1.20.1-14.0.30.jar",
+        "Sum": "bac094096c43392bec64928bb5ced9020f7f93bcd2af08735308366cd2cdcdd8"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/8DfbfASn/versions/wiCQJUDT/DungeonsArise-1.20.1-2.1.57-release.jar",
+        "NameToSet": "DungeonsArise-1.20.1-2.1.57-release.jar",
+        "Sum": "26c12f489af79026bf41c7dbe67f8258c28871a0ab07ee8d6d43d0350e0b5983"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/pvcsfne4/versions/5tGfF2Ok/chefs-delight-1.0.3-forge-1.20.1.jar",
+        "NameToSet": "chefs-delight-1.0.3-forge-1.20.1.jar",
+        "Sum": "27be85d4cfa48a1b9e469e7f485dd4e7c87b782ade1d5ee6eec4a8c3f7d4b968"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/HSfsxuTo/versions/DFkIejTe/explorify-v1.3.0-mc1.20.jar",
+        "NameToSet": "explorify-v1.3.0-mc1.20.jar",
+        "Sum": "7ce41507689f1cb1468e989baaa65ca1cb9a063a0d9e38c08823a8b9c21972a5"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/8pcjMDgj/versions/skIfd1VU/TradingPost-v8.0.1-1.20.1-Forge.jar",
+        "NameToSet": "TradingPost-v8.0.1-1.20.1-Forge.jar",
+        "Sum": "007c190e64409c0947e1f71bc4d69499b510f7a8015b63e239338d0088d9815f"
     }
   ],
   "ToDelete": [
     {
-        "NameToDelete": "toDelete1.txt"
+        "NameToDelete": "Bountiful-6.0.3+1.20.1-forge.jar"
     },
     {
-        "NameToDelete": "toDelete1 - Copy.txt"
-    },
-    {
-        "NameToDelete": "toDelete1 - Copy - Copy.txt"
-    },
-    {
-        "NameToDelete": "toDelete1 - Copy - Copy - Copy.txt"
+        "NameToDelete": "freecam-forge-1.2.1+1.20.jar"
     }
   ]
 }
