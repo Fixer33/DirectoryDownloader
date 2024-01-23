@@ -16,3 +16,7 @@ F:\Work\Fork\DirectoryDownloader\DirectoryDownloader\obj\Debug\DirectoryDownload
 F:\Work\Fork\DirectoryDownloader\DirectoryDownloader\obj\Debug\DirectoryDownloader.exe
 F:\Work\Fork\DirectoryDownloader\DirectoryDownloader\obj\Debug\DirectoryDownloader.pdb
 F:\Work\Fork\DirectoryDownloader\DirectoryDownloader\obj\Debug\DirectoryDownloader.Main.resources
+F:\Work\Fork\DirectoryDownloader\DirectoryDownloader\bin\Debug\DirectoryDownloader.exe.manifest
+F:\Work\Fork\DirectoryDownloader\DirectoryDownloader\bin\Debug\DirectoryDownloader.application
+F:\Work\Fork\DirectoryDownloader\DirectoryDownloader\obj\Debug\DirectoryDownloader.exe.manifest
+F:\Work\Fork\DirectoryDownloader\DirectoryDownloader\obj\Debug\DirectoryDownloader.application

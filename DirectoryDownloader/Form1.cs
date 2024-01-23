@@ -22,6 +22,7 @@ namespace DirectoryDownloader
     public partial class Main : Form
     {
         private const string URL = "https://fixer33.github.io/DirectoryDownloader/mcd.json";
+        private const string REG_KEY = "last_selected_folder";
         private readonly CommonOpenFileDialog _openFolderDialog = new CommonOpenFileDialog();
 
         private string _dirPath;
@@ -33,26 +34,17 @@ namespace DirectoryDownloader
 
         private async void StartBtn_Click(object sender, EventArgs e)
         {
-            const string key = "last_selected_folder";
-
             StartBtn.Enabled = false;
-            MessageBox.Show("Select folder");
 
-            _openFolderDialog.DefaultDirectory = Registry.CurrentUser.GetValue(key, "") as string;
-            _openFolderDialog.IsFolderPicker = true;
-            if (_openFolderDialog.ShowDialog() == CommonFileDialogResult.Ok)
+            if (Directory.Exists(_dirPath))
             {
-                _dirPath = _openFolderDialog.FileName;
-                Registry.CurrentUser.SetValue(key, _dirPath);
-                if (Directory.Exists(_dirPath))
-                {
-                    await Proceed(_dirPath);
-                }
-                else
-                {
-                    MessageBox.Show("Directory does not exist");
-                }
+                await Proceed(_dirPath);
             }
+            else
+            {
+                MessageBox.Show("Directory does not exist");
+            }
+
             StartBtn.Enabled = true;
         }
 
@@ -116,7 +108,7 @@ namespace DirectoryDownloader
             if (failed.Count > 0)
                 MessageBox.Show("Files failed to validate hash:\n" + conc);
 
-            MessageBox.Show("Done");
+            MessageBox.Show("Done. You can close the window");
         }
 
         private static string Hash(string path, ref byte[] bytes)
@@ -133,7 +125,13 @@ namespace DirectoryDownloader
 
         private void Main_Shown(object sender, EventArgs e)
         {
-
+            _dirPath = Registry.CurrentUser.GetValue(REG_KEY, "") as string;
+            StartBtn.Enabled = Directory.Exists(_dirPath);
+            if (_dirPath == null)
+            {
+                _dirPath = "";
+            }
+            textBox1.Text = _dirPath;
         }
 
         #region Moving form
@@ -160,7 +158,28 @@ namespace DirectoryDownloader
         private void Main_MouseUp(object sender, MouseEventArgs e)
         {
             _isMoving = false;
-        } 
+        }
         #endregion
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            _openFolderDialog.DefaultDirectory = _dirPath;
+            _openFolderDialog.IsFolderPicker = true;
+            if (_openFolderDialog.ShowDialog() == CommonFileDialogResult.Ok)
+            {
+                if (Directory.Exists(_openFolderDialog.FileName))
+                {
+                    _dirPath = _openFolderDialog.FileName;
+                    textBox1.Text = _dirPath;
+                    Registry.CurrentUser.SetValue(REG_KEY, _dirPath);
+                    StartBtn.Enabled = true;
+                }
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
