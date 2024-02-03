@@ -44,6 +44,21 @@
         "Url": "https://cdn.modrinth.com/data/8pcjMDgj/versions/skIfd1VU/TradingPost-v8.0.1-1.20.1-Forge.jar",
         "NameToSet": "TradingPost-v8.0.1-1.20.1-Forge.jar",
         "Sum": "007c190e64409c0947e1f71bc4d69499b510f7a8015b63e239338d0088d9815f"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/uY7EYHum/versions/enzSAO5N/destroy-1.20.1-0.6.jar",
+        "NameToSet": "destroy-1.20.1-0.6.jar",
+        "Sum": "a25cda50bd48f5cf607ae2ee4b71f07c0a81b57e1496a18d1be84f867ef09595"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/Nt0wLqt5/versions/mYzw4wA4/BOH_0.0.5.jar",
+        "NameToSet": "BOH_0.0.5.jar",
+        "Sum": "db3f2db6f0a7aa7eceeb08f93cb316834ac05052ed09a3528eaf2d753f51296d"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/rvYVvldk/create-new-age-forge-1.20.1-1.1.1.jar",
+        "NameToSet": "create-new-age-forge-1.20.1-1.1.1.jar",
+        "Sum": "1785777b9d7ba3a8efbf31e304b745990ed236ff173ae93f5b6e6f6c201b8569"
     }
   ],
   "ToDelete": [
@@ -52,6 +67,9 @@
     },
     {
         "NameToDelete": "freecam-forge-1.2.1+1.20.jar"
+    },
+    {
+        "NameToDelete": "create-new-age-forge-1.20.1-1.1.jar"
     }
   ]
 }
