@@ -70,6 +70,9 @@
     },
     {
         "NameToDelete": "create-new-age-forge-1.20.1-1.1.jar"
+    },
+    {
+        "NameToDelete": "BOH_0.0.5.jar"
     }
   ]
 }
