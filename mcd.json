@@ -54,6 +54,26 @@
         "Url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/rvYVvldk/create-new-age-forge-1.20.1-1.1.1.jar",
         "NameToSet": "create-new-age-forge-1.20.1-1.1.1.jar",
         "Sum": "1785777b9d7ba3a8efbf31e304b745990ed236ff173ae93f5b6e6f6c201b8569"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/v8jzRtAt/versions/jtRsK8D0/%5B1.20.1%5D%20SecurityCraft%20v1.9.8.jar",
+        "NameToSet": "[1.20.1] SecurityCraft v1.9.8.jar",
+        "Sum": "cbe8f1a5f38ada20e35db19ae42d6a62ab9c44b3a4eb6ff8c04c3d7ec76bf2d8"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/FYpiwiBR/versions/3jLavA1z/ConnectorExtras-1.9.2%2B1.20.1.jar",
+        "NameToSet": "ConnectorExtras-1.9.2+1.20.1.jar",
+        "Sum": "8d9976f3bb321bdd2de51268ce4d25e78fc8b610d68322aa46e65efbf3017929"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/q5kbwIvk/fabric-api-0.91.0%2B1.10.8%2B1.20.1.jar",
+        "NameToSet": "fabric-api-0.91.0+1.10.8+1.20.1.jar",
+        "Sum": "c54aecc16da0bb84c430b94b601dbc17d0357db93b6fb29f9da85a09f856c090"
+    },
+    {
+        "Url": "https://cdn.modrinth.com/data/u58R1TMW/versions/NN8d83mu/Connector-1.0.0-beta.36%2B1.20.1.jar",
+        "NameToSet": "Connector-1.0.0-beta.36+1.20.1.jar",
+        "Sum": "7a4a521840da2f1bc477b601c751585aa156cff000129813243db4e041988723"
     }
   ],
   "ToDelete": [
