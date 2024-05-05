@@ -1,79 +1,9 @@
 {
   "ToDownload": [
     {
-        "Url": "https://cdn.modrinth.com/data/rOUBggPv/versions/oLWJKPOz/supermartijn642corelib-1.1.16-forge-mc1.20.1.jar",
-        "NameToSet": "supermartijn642corelib-1.1.16-forge-mc1.20.1.jar",
+        "Url": "",
+        "NameToSet": "",
         "Sum": "8a61a541f0dbf849a14188a2e891494ae4853f44fb29c69be5b7d3cd669f9ac4"
-    },
-    {
-        "Url": "https://cdn.modrinth.com/data/t1VgucWo/versions/5RSR78ic/chunkloaders-1.2.8a-forge-mc1.20.1.jar",
-        "NameToSet": "chunkloaders-1.2.8a-forge-mc1.20.1.jar",
-        "Sum": "b418c8a4cd2832bed893937f264cf38e284aa771ef423388480ba1f546158a19"
-    },
-    {
-        "Url": "https://cdn.modrinth.com/data/NfnO7EKv/versions/T9JYB8Ju/kuronomy-2.0.0.jar",
-        "NameToSet": "kuronomy-2.0.0.jar",
-        "Sum": "02c056195d7a5219c34bf0b7d33268208edf4d55bdc1f07b8c22804ed43f50d7"
-    },
-    {
-        "Url": "https://cdn.modrinth.com/data/LN9BxssP/versions/ZKor79dR/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
-        "NameToSet": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
-        "Sum": "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3"
-    },
-    {
-        "Url": "https://cdn.modrinth.com/data/Xg35A4rS/versions/N2sIh5Yx/CraftTweaker-forge-1.20.1-14.0.30.jar",
-        "NameToSet": "CraftTweaker-forge-1.20.1-14.0.30.jar",
-        "Sum": "bac094096c43392bec64928bb5ced9020f7f93bcd2af08735308366cd2cdcdd8"
-    },
-    {
-        "Url": "https://cdn.modrinth.com/data/8DfbfASn/versions/wiCQJUDT/DungeonsArise-1.20.1-2.1.57-release.jar",
-        "NameToSet": "DungeonsArise-1.20.1-2.1.57-release.jar",
-        "Sum": "26c12f489af79026bf41c7dbe67f8258c28871a0ab07ee8d6d43d0350e0b5983"
-    },
-    {
-        "Url": "https://cdn.modrinth.com/data/pvcsfne4/versions/5tGfF2Ok/chefs-delight-1.0.3-forge-1.20.1.jar",
-        "NameToSet": "chefs-delight-1.0.3-forge-1.20.1.jar",
-        "Sum": "27be85d4cfa48a1b9e469e7f485dd4e7c87b782ade1d5ee6eec4a8c3f7d4b968"
-    },
-    {
-        "Url": "https://cdn.modrinth.com/data/HSfsxuTo/versions/DFkIejTe/explorify-v1.3.0-mc1.20.jar",
-        "NameToSet": "explorify-v1.3.0-mc1.20.jar",
-        "Sum": "7ce41507689f1cb1468e989baaa65ca1cb9a063a0d9e38c08823a8b9c21972a5"
-    },
-    {
-        "Url": "https://cdn.modrinth.com/data/8pcjMDgj/versions/skIfd1VU/TradingPost-v8.0.1-1.20.1-Forge.jar",
-        "NameToSet": "TradingPost-v8.0.1-1.20.1-Forge.jar",
-        "Sum": "007c190e64409c0947e1f71bc4d69499b510f7a8015b63e239338d0088d9815f"
-    },
-    {
-        "Url": "https://cdn.modrinth.com/data/uY7EYHum/versions/enzSAO5N/destroy-1.20.1-0.6.jar",
-        "NameToSet": "destroy-1.20.1-0.6.jar",
-        "Sum": "a25cda50bd48f5cf607ae2ee4b71f07c0a81b57e1496a18d1be84f867ef09595"
-    },
-    {
-        "Url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/rvYVvldk/create-new-age-forge-1.20.1-1.1.1.jar",
-        "NameToSet": "create-new-age-forge-1.20.1-1.1.1.jar",
-        "Sum": "1785777b9d7ba3a8efbf31e304b745990ed236ff173ae93f5b6e6f6c201b8569"
-    },
-    {
-        "Url": "https://cdn.modrinth.com/data/v8jzRtAt/versions/jtRsK8D0/%5B1.20.1%5D%20SecurityCraft%20v1.9.8.jar",
-        "NameToSet": "[1.20.1] SecurityCraft v1.9.8.jar",
-        "Sum": "cbe8f1a5f38ada20e35db19ae42d6a62ab9c44b3a4eb6ff8c04c3d7ec76bf2d8"
-    },
-    {
-        "Url": "https://cdn.modrinth.com/data/FYpiwiBR/versions/3jLavA1z/ConnectorExtras-1.9.2%2B1.20.1.jar",
-        "NameToSet": "ConnectorExtras-1.9.2+1.20.1.jar",
-        "Sum": "8d9976f3bb321bdd2de51268ce4d25e78fc8b610d68322aa46e65efbf3017929"
-    },
-    {
-        "Url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/q5kbwIvk/fabric-api-0.91.0%2B1.10.8%2B1.20.1.jar",
-        "NameToSet": "fabric-api-0.91.0+1.10.8+1.20.1.jar",
-        "Sum": "c54aecc16da0bb84c430b94b601dbc17d0357db93b6fb29f9da85a09f856c090"
-    },
-    {
-        "Url": "https://cdn.modrinth.com/data/u58R1TMW/versions/NN8d83mu/Connector-1.0.0-beta.36%2B1.20.1.jar",
-        "NameToSet": "Connector-1.0.0-beta.36+1.20.1.jar",
-        "Sum": "7a4a521840da2f1bc477b601c751585aa156cff000129813243db4e041988723"
     }
   ],
   "ToDelete": [
@@ -82,12 +12,6 @@
     },
     {
         "NameToDelete": "freecam-forge-1.2.1+1.20.jar"
-    },
-    {
-        "NameToDelete": "create-new-age-forge-1.20.1-1.1.jar"
-    },
-    {
-        "NameToDelete": "BOH_0.0.5.jar"
     }
   ]
 }
