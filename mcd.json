@@ -1,9 +1,9 @@
 {
   "ToDownload": [
     {
-        "Url": "",
-        "NameToSet": "",
-        "Sum": "8a61a541f0dbf849a14188a2e891494ae4853f44fb29c69be5b7d3cd669f9ac4"
+        "Url": "https://cdn.modrinth.com/data/8pcjMDgj/versions/skIfd1VU/TradingPost-v8.0.1-1.20.1-Forge.jar",
+        "NameToSet": "TradingPost-v8.0.1-1.20.1-Forge.jar",
+        "Sum": "007c190e64409c0947e1f71bc4d69499b510f7a8015b63e239338d0088d9815f"
     }
   ],
   "ToDelete": [
