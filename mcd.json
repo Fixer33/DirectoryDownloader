@@ -15,6 +15,9 @@
     },
     {
         "NameToDelete": "silent-lib-1.20.1-8.0.0.jar"
+    },
+    {
+        "NameToDelete": "fight_or_die-1.20.1-1.1.4.jar"
     }
   ]
 }
